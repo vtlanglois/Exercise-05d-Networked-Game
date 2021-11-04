@@ -1,4 +1,4 @@
-# Exercise-06b-Networked-Game
+# Exercise-05d-Networked-Game
 Exercise for MSCH-C220, 4 November 2021
 
 This exercise is a chance to play with Godot's networking capability in a 3D context. We will be extending a simple first-person-controlled character and allow the control of two of these characters over localhost.
@@ -101,7 +101,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
-# Exercise-06b-Networked-Game
+# Exercise-05d-Networked-Game
 Exercise for MSCH-C220, 4 November 2021
 
 A simple networked game
