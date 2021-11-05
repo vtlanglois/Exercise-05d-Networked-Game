@@ -15,7 +15,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Networked Game"
-run/main_scene="res://Game.tscn"
+run/main_scene="res://Lobby/Lobby.tscn"
 config/icon="res://icon.png"
 
 [autoload]
